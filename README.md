@@ -1,6 +1,6 @@
 # Indexx OSS | Full Stack Developer Portfolio
 
-![Portfolio Screenshot](screenshot.png) <!-- Replace with your actual screenshot file -->
+![Portfolio Screenshot](indexxhub.png) <!-- Replace with your actual screenshot file -->
 
 ## 🚀 About
 
